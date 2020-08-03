@@ -10,6 +10,7 @@ int main() {
   
   cout << "Bienvenido a almacenes De Prati\n";
   cout << "Porfavor ingrese los numeros\n";
+  //llamar a la funcion
   ingresar(num);
 
   return 0;
